@@ -1,0 +1,21 @@
+{
+  "name": "digital-bookshelf-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrabony01/digital-bookshelf-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/shrabony01/digital-bookshelf-api/issues"
+  },
+  "homepage": "https://github.com/shrabony01/digital-bookshelf-api#readme"
+}
